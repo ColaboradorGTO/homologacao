@@ -40,7 +40,6 @@ class ComprasControllers {
             throw error;
         }
     }
-
 }
 
 export default new ComprasControllers();
